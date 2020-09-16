@@ -1,14 +1,14 @@
 # Topic Modeling
 
 
-# Dataset: Quora Questions
+## Dataset: Quora Questions
 
 
-# Key Concept:
+## Key Concept:
 - Natural Language Processing
 - Vectorizer (CountVectorizer, TfidfVectorizer)
 
-# Key Model Used:
+## Key Model Used:
 
 - latent Dirichlet allocation (LDA)
 - Non-negative Matrix Factorization (NMF)
